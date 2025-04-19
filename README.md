@@ -23,6 +23,11 @@ The dataset used in this assignment includes a classification problem where the 
 
 ## Results
 The results are summarized in a structured format, showing performance metrics for each parameter combination. The best parameter set is selected based on the highest cross-validated accuracy.
+![Image](https://github.com/user-attachments/assets/f80435b6-fb67-457e-b956-7925b1d64e14)
+
+
+## 📈 Result Graphs
+![Image](https://github.com/user-attachments/assets/276317ee-9601-446e-8aa9-e63cc4ba310d)
 
 ## Conclusion
 * SVM performs well with properly scaled features.
